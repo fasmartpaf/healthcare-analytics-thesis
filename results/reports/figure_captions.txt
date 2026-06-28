@@ -1,0 +1,245 @@
+
+Figure 1: Fig_Stage1_10_Age_vs_Billing.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 2: Fig_Stage1_11_Correlation_heatmap.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 3: Fig_Stage1_1_Age_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 4: Fig_Stage1_2_Billing_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 5: Fig_Stage1_3_Length_of_Stay_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 6: Fig_Stage1_4_Gender_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 7: Fig_Stage1_5_BloodType_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 8: Fig_Stage1_6_AdmissionType_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 9: Fig_Stage1_7_MedicalCondition_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 10: Fig_Stage1_8_Medication_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 11: Fig_Stage1_9_TestResults_distribution.png
+
+This figure was generated during Stage1 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 12: Fig_Stage2_1_Length_of_Stay_distribution.png
+
+This figure was generated during Stage2 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 13: Fig_Stage2_2_Billing_distribution.png
+
+This figure was generated during Stage2 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 14: Fig_Stage2_3_Gender_encoded_distribution.png
+
+This figure was generated during Stage2 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 15: Fig_Stage2_4_AdmissionType_encoded_distribution.png
+
+This figure was generated during Stage2 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 16: Fig_Stage2_5_TestResults_encoded_distribution.png
+
+This figure was generated during Stage2 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 17: Fig_Stage3_1_Age_distribution_detailed.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 18: Fig_Stage3_2_Billing_amount_distribution.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 19: Fig_Stage3_3_Stay_length_distribution.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 20: Fig_Stage3_4_Cost_by_condition.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 21: Fig_Stage3_5_Cost_by_admission_type.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 22: Fig_Stage3_6_Correlation_matrix.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 23: Fig_Stage3_7_Age_vs_stay.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 24: Fig_Stage3_8_Billing_vs_stay.png
+
+This figure was generated during Stage3 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 25: Fig_Stage4_1_confusion_matrix_DecisionTree.png
+
+This figure was generated during Stage4 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 26: Fig_Stage4_2_confusion_matrix_RandomForest.png
+
+This figure was generated during Stage4 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 27: Fig_Stage4_3_confusion_matrix_LogisticRegression.png
+
+This figure was generated during Stage4 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 28: Fig_Stage4_4_confusion_matrix_KNN.png
+
+This figure was generated during Stage4 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 29: Fig_Stage4_5_model_accuracy_comparison.png
+
+This figure was generated during Stage4 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 30: Fig_Stage4_6_feature_importance_random_forest.png
+
+This figure was generated during Stage4 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 31: Fig_Stage5_1_cluster_scatter.png
+
+This figure was generated during Stage5 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 32: Fig_Stage5_2_cluster_distribution.png
+
+This figure was generated during Stage5 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 33: Fig_Stage5_3_cluster_feature_heatmap.png
+
+This figure was generated during Stage5 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 34: Fig_Stage6_1_cluster_size_overview.png
+
+This figure was generated during Stage6 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
+
+Figure 35: Fig_Stage6_2_model_accuracy_summary.png
+
+This figure was generated during Stage6 of the healthcare analytics pipeline.
+It illustrates an important analytical result related to patient behavior,
+healthcare cost patterns, predictive modeling, or cluster analysis.
+
